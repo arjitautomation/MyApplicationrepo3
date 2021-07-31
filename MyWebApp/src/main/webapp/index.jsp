@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Welcome to House of Eric Akinnibosun</h2>
+<h2>Hello Everyone, I am learning DevOps with jenkins</h2>
 </body>
 </html>
